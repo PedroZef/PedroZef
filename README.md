@@ -1,6 +1,6 @@
 ### Oi 👋 ✨
 
-**PedroZef/PedroZef** ✨
+**PedroZef/PedroZef** ✨ Estudando os Bootcamps Java, JavaScript, TypeScrpt con Node.JS, Kotlin com Android Studio, etc... Programação e Desenvolvimento na Dio Innovatione One ✨
 ## Técnico Mecãnico Diesel - Técnico de Informática p/ Internet Aposentado ✨
 
 ##  ✨ Nascido e criado em Caruaru – PE, onde morei até junho de 1974 e mudamos pra São Paulo. Atualmente resido em São José dos Campos - Vale do Paraiba. Pai, marido e avô comunicativo, proativo e alegre, uma pessoa que valoriza coisas simples e humildes. Adoro estar com minha família e amigos e passear com meu cão Boby. 
