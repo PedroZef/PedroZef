@@ -1,6 +1,6 @@
 ### Oi 👋 ✨
 
-**PedroZef/PedroZef** ✨ Estudando os Cursos, Bootcamps Java, JavaScript, Angular, Spring Boot, TypeScrpt con Node.JS, Kotlin com Android Studio, etc... Programação e Desenvolvimento na Dio Innovatione One ✨
+**PedroZef/PedroZef** ✨desenvolvedor FullStack Junior- Estudante dos Cursos e Bootcamps Java, JavaScript, Angular, Spring Boot, TypeScrpt con Node.JS, Kotlin com Android Studio, etc... Programação e Desenvolvimento na Dio Innovatione One ✨
 
 ##  ✨✨ Formação Escolar de Ensino Médio Completo
 
