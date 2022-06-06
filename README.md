@@ -1,6 +1,6 @@
 ### Oi 👋 ✨
 
-# ✨Desenvolvedor FullStack Junior- Estudante dos Cursos e Bootcamps Java, JavaScript, Angular, Spring Boot, TypeScrpt con Node.JS, Kotlin com Android Studio, etc... Programação e Desenvolvimento na Dio Innovatione One ✨
+# ✨Desenvolvedor FullStack Junior - Estudante dos Cursos e Bootcamps Java, JavaScript, Angular, Spring Boot, TypeScrpt con Node.JS, Kotlin com Android Studio, etc... Programação e Desenvolvimento na Dio Innovatione One ✨
 
 ##  ✨Ensino Médio Completo - Técnico de Informática p/ Internet
 
