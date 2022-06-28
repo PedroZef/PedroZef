@@ -8,6 +8,6 @@
 
 ## Gosto de ler sobre vários temas e sou apaixonado por corrida de rua, desenhos em quadrinhos, música, cinema, bicicleta, pescar e culinária principalmente no fogão á lenha. Louco por jogos. Estou sempre procurando tempo para sair com minha família, também para aprender coisas novas e, nos primeiros passos da programação.
 
-##✨Meu Linkedin: https://linkedin.com/in/pedro-zeferino-da-silva-1752a214a            
+##✨Meu Linkedin: https://www.linkedin.com/in/pedro-zeferino-da-silva-30654a121            
 
 ##✨Email: zefpedro@hotmail.com
