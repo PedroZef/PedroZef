@@ -1,15 +1,18 @@
 ## Oi Sou Pedro Zeferino da Silva
 
-![PedroZef GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroZef&show_icons=true&theme=onedark)
+![PedroZef GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroZef&show_icons=true&theme=dracula)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?PedroZef=Your_GitHub_Username&theme=blue-green)
 
 ### ✨Desenvolvedor Junior - Estudante dos Cursos e Bootcamps Java, JavaScript, Angular, Spring Boot, TypeScrpt con Node.JS, Kotlin com Android Studio, etc... Programação e Desenvolvimento na Dio Innovatione One ✨
 
-##  ✨Ensino Médio Completo - Técnico de Informática p/ Internet
+## Tecnologias que mais uso no meu dia escolar
 
-## ✨Técnico Mecânico Diesel - Aposentado ✨
+<div style="display: inline_block"><br/>
+  <iimg align"center" alt="html5" src=""
+/>
+</div>
 
-## Gosto de ler sobre vários temas e sou apaixonado por corrida de rua, desenhos em quadrinhos, música, cinema, bicicleta, pescar e culinária principalmente no fogão á lenha. Louco por jogos. Estou sempre procurando tempo para sair com minha família, também para aprender coisas novas e, nos primeiros passos da programação.
+###✨Meu Linkedin: https://www.linkedin.com/in/pedro-zeferino-da-silva-30654a121            
 
-##✨Meu Linkedin: https://www.linkedin.com/in/pedro-zeferino-da-silva-30654a121            
-
-##✨Email: zefpedro@hotmail.com
+###✨Email: zefpedro@hotmail.com
