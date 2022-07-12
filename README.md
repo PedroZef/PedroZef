@@ -1,4 +1,6 @@
-### Oi 👋 ✨
+### Oi Sou Pedro Zeferino da Silva
+
+![PedroZef GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroZef&show_icons=true&theme=radical)
 
 # ✨Desenvolvedor Junior - Estudante dos Cursos e Bootcamps Java, JavaScript, Angular, Spring Boot, TypeScrpt con Node.JS, Kotlin com Android Studio, etc... Programação e Desenvolvimento na Dio Innovatione One ✨
 
