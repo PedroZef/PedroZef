@@ -2,7 +2,7 @@
 
 ![PedroZef GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroZef&show_icons=true&theme=dracula)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?PedroZef=Your_GitHub_Username&theme=blue-green)
+![PedroZef Stats](https://github-readme-stats.vercel.app/api/top-langs/?PedroZef=Your_GitHub_Username&theme=blue-green)
 
 ### ✨Desenvolvedor Junior - Estudante dos Cursos e Bootcamps Java, JavaScript, Angular, Spring Boot, TypeScrpt con Node.JS, Kotlin com Android Studio, etc... Programação e Desenvolvimento na Dio Innovatione One ✨
 
