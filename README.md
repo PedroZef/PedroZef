@@ -1,6 +1,6 @@
 ## Oi, Sou Pedro Zeferino da Silva
 
-### ✨Técnico Mecãnico Diesel em transição de carreira Desenvolvedor Junior - Estudante dos Cursos e Bootcamps de Programação e Desenvolvimento na Code Saga | Campus Code | Dio Innovatione One | Ruby | Java | JavaScript | Angular | Spring Boot | Node.js | Kotlin com Android Studio, etc... ✨
+### ✨Técnico Mecãnico Diesel em transição de carreira Desenvolvedor Junior - Estudante dos Cursos de Programação e Desenvolvimento na Alura | Oracle Next Education | Dio Innovatione One | Java | JavaScript | HTML CSS3 | Angular | Spring Boot | Node.js | Kotlin com Android Studio, etc... ✨
 
 ![PedroZef GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroZef&show_icons=true&theme=merko)
 
