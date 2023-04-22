@@ -22,9 +22,10 @@
  
 
 
-###✨Meu Linkedin: https://www.linkedin.com/in/pedro-zeferino-da-silva    
+###✨Meu Linkedin: https://www.linkedin.com/in/pedro-zeferino-da-silva 
+   
 ### ✨Meu APP Netlify: https://dsmeta-zef2022.netlify.app
-### Meu Site: https://github.io/alura-challenge-one-decodificador-de-texto/
+### Meu Site Git Pages: https://pedrozef.github.io/alura-challenge-one-decodificador-de-texto/
 
 ###✨Email: zefpedro@hotmail.com/
 
