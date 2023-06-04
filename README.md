@@ -1,6 +1,6 @@
 ## Oi, Sou Pedro Zeferino da Silva
 
-### ✨Técnico Mecãnico Diesel em transição de carreira Desenvolvedor Junior - Estudante dos Cursos de Programação e Desenvolvimento na Alura | Oracle Next Education | Dio Innovatione One | Java | JavaScript | HTML CSS3 | Angular | Spring Boot | Node.js | Kotlin com Android Studio, etc... ✨
+### ✨Técnico Mecânico Diesel em transição de carreira Desenvolvedor Junior - Estudante dos Cursos de Programação e Desenvolvimento na Alura | Oracle Next Education | Dio Innovatione One | Java | JavaScript | HTML CSS3 | Angular | Spring Boot | Node.js | Kotlin com Android Studio, etc... ✨
 
 ![PedroZef GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroZef&show_icons=true&theme=merko)
 
@@ -22,7 +22,7 @@
  
 
 
-###✨Meu Linkedin: https://www.linkedin.com/in/pedro-zeferino-da-silva 
+###✨Meu Linkedin: https://www.linkedin.com/in/pedro-zeferino-da-silva
    
 ### ✨Meu APP Netlify: https://dsmeta-zef2022.netlify.app
 ### Meu Site Git Pages: https://pedrozef.github.io/alura-challenge-one-decodificador-de-texto/
