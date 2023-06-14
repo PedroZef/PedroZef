@@ -19,13 +19,13 @@
    <img align"center" alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
    <img align"center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
    <img align"center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
- 
+    
 
-
-###✨Meu Linkedin: https://www.linkedin.com/in/pedro-zeferino-da-silva
-   
-### ✨Meu APP Netlify: https://dsmeta-zef2022.netlify.app
 ### Meu Site Git Pages: https://pedrozef.github.io/alura-challenge-one-decodificador-de-texto/
 
+### ✨Meu APP Netlify: https://dsmeta-zef2022.netlify.app
+   
+###✨Meu Linkedin: https://www.linkedin.com/in/pedro-zeferino-da-silva
+   
 ###✨Email: zefpedro@hotmail.com/
 
