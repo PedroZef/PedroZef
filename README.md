@@ -2,12 +2,6 @@
 
 ### ✨Técnico Mecânico Diesel em transição de carreira Desenvolvedor Junior - Estudante dos Cursos de Programação e Desenvolvimento na Alura | Oracle Next Education | Dio Innovatione One | Java | JavaScript | HTML CSS3 | Angular | Spring Boot | Node.js | Kotlin com Android Studio, etc... ✨
 
-![PedroZef GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroZef&show_icons=true&theme=merko)
-
-![PedroZef GitHub stats](https://pedrozef.github.io/challenge-one-portfolio-t5/)
-
-![PedroZef GitHub stats](https://onlinecurriculo.com.br/r/ymyltlHY2])
-
 ## Card Layout
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroZef&layout=compact)](https://github.com/PedroZef/github-readme-stats)
@@ -26,6 +20,12 @@
     
 
 ### Meu Site Git Pages: https://pedrozef.github.io/alura-challenge-one-decodificador-de-texto/
+
+### ✨Meu APP!(https://github-readme-stats.vercel.app/api?username=PedroZef&show_icons=true&theme=merko)
+
+### ✨Meu APP!(https://pedrozef.github.io/challenge-one-portfolio-t5/)
+
+### Meu Curriculo!(https://onlinecurriculo.com.br/r/ymyltlHY2])
 
 ### ✨Meu APP Netlify: https://dsmeta-zef2022.netlify.app
    
