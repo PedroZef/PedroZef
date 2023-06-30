@@ -4,6 +4,12 @@
 
 ![PedroZef GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroZef&show_icons=true&theme=merko)
 
+!(https://pedrozef.github.io/challenge-one-portfolio-t5/)
+
+![https://onlinecurriculo.com.br/r/ymyltlHY2]
+
+![https://www.linkedin.com/in/pedro-zeferino-da-silva-30654a121]
+
 ## Card Layout
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroZef&layout=compact)](https://github.com/PedroZef/github-readme-stats)
