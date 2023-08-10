@@ -1,6 +1,6 @@
 ## Oi, Sou Pedro Zeferino da Silva
 
-### ✨Técnico Mecânico Diesel em transição de carreira Desenvolvedor Junior - Estudante dos Cursos de Programação e Desenvolvimento na Alura | Oracle Next Education | Dio Innovatione One | Java | JavaScript | HTML CSS3 | Angular | Spring Boot | Node.js | Kotlin com Android Studio, etc... ✨
+### ✨Técnico Mecânico Diesel em transição de carreira Desenvolvedor Junior - Estudante dos Cursos de Programação e Desenvolvimento na Alura | Oracle Next Education | Dio Innovatione One | Java | JavaScript | HTML | CSS3 | Spring Boot | Node.js | React | Kotlin com Android Studio, etc... ✨
 
 ## Card Layout
 
