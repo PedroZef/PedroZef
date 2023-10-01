@@ -3,12 +3,14 @@
 ### ✨Técnico Mecânico Diesel em transição de carreira Desenvolvedor Junior - Estudante dos Cursos de Programação e Desenvolvimento na Alura | Oracle Next Education  - Front-End | Dio Innovatione One | Java | JavaScript | HTML | CSS3 | Spring Boot | Node.js | React | Kotlin com Android Studio, etc... ✨
 
 ## Card Layout
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroZef&layout=compact)](https://github.com/PedroZef/github-readme-stats)
 
 ## Tecnologias que mais uso no meu dia escolar
 
 <div style="display: inline_block"><br/>
+   <img align"center" alt="React" src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor-white" />   
    <img align"center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
    <img align"center" alt="Ruby" src="https://img.shields.io/badge/Ruby-E34F26?style=for-the-badge&logo=ruby&logoColor=white" />
    <img align"center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
