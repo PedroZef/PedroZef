@@ -32,17 +32,16 @@
 
 ### ✨ Meu site na Vercel: https://aluraflix-pzs-vercel.vercel.app/
 
-### ✨  Meu Site Git Pages: https://pedrozef.github.io/alura-challenge-one-decodificador-de-texto/
+### ✨  Meu Site Git Pages: https://pedrozef.github.io/encriptador_challenge-one 
 
 ### ✨ Meu Oragano: https://organo-react-pedrozef.vercel.app/
 
-### ✨Meu APP!(https://github-readme-stats.vercel.app/api?username=PedroZef&show_icons=true&theme=merko)
+### ✨ Meu Portfolio: https://pedrozef.github.io/Portifolio-HTML-e-CSS-turma6/                                    
 
 ### ✨Meu APP!(https://pedrozef.github.io/challenge-one-portfolio-t5/)
 
 ### ✨Meu APP Netlify: https://dsmeta-zef2022.netlify.app
    
-
 
 
 
