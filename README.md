@@ -1,12 +1,12 @@
 # Oi, Sou Pedro Zeferino da Silva | Desenvolver Front-End Junior
 
-### ✨Em transição de carreira para Desenvolvedor Junior - Estudante dos Cursos de Programação e Desenvolvimento na ADA TECH + SANTANDER TECH+ | Oracle Next Education  - Front-End | Dio Innovatione One | "Quando a situação for boa, desfrute-a. Quando a situação for ruim, transforme-a. Quando a situação não puder ser transformada, transforme-se" (Viktor Frankl) 
+### ✨Em transição de carreira para Desenvolvedor Junior - Estudante dos Cursos de Programação e Desenvolvimento na Ada Tech + SANTANDER  | Oracle Next Education  - Front-End | Dio Innovatione One | "Quando a situação for boa, desfrute-a. Quando a situação for ruim, transforme-a. Quando a situação não puder ser transformada, transforme-se" (Viktor Frankl) 
 
 ✨
 
 ## ✨ Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/pedro-zeferino-da-silva-625394330/)
-[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/zeferino4851pedro@gmail.com/)
+[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/PedroZef/zeferino4851pedro@gmail.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/pedrozeferino-da-silva/)
 
 
