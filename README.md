@@ -1,6 +1,6 @@
-## Oi, Sou Pedro Zeferino da Silva 
+# Oi, Sou Pedro Zeferino da Silva | Desenvolver Front-End Junior
 
-### ✨Técnico Mecânico Diesel em transição de carreira Desenvolvedor Junior - Estudante dos Cursos de Programação e Desenvolvimento na Alura | Oracle Next Education  - Front-End | Dio Innovatione One | "Quando a situação for boa, desfrute-a. Quando a situação for ruim, transforme-a. Quando a situação não puder ser transformada, transforme-se" (Viktor Frankl) 
+### ✨Em transição de carreira para Desenvolvedor Junior - Estudante dos Cursos de Programação e Desenvolvimento na ADA TECH + SANTANDER TECH+ | Oracle Next Education  - Front-End | Dio Innovatione One | "Quando a situação for boa, desfrute-a. Quando a situação for ruim, transforme-a. Quando a situação não puder ser transformada, transforme-se" (Viktor Frankl) 
 
 ✨
 
