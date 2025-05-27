@@ -1,6 +1,6 @@
-# Oi, Sou Pedro Zeferino da Silva | Desenvolver Front-End Junior
+# Oi, Sou Pedro Zeferino da Silva | Desenvolvimento de Sistemas na FAT - 
 
-### ✨Em transição de carreira para Desenvolvedor Junior - Estudante dos Cursos de Programação e Desenvolvimento na Ada Tech + SANTANDER  | Oracle Next Education  - Front-End | Dio Innovatione One | "Quando a situação for boa, desfrute-a. Quando a situação for ruim, transforme-a. Quando a situação não puder ser transformada, transforme-se" (Viktor Frankl) 
+### ✨Em transição de carreira para Desenvolvedor Junior Front End Cursos de Programação e Desenvolvimento  de Sistemas na FAT | Ada Tech + SANTANDER "Quando a situação for boa, desfrute-a. Quando a situação for ruim, transforme-a. Quando a situação não puder ser transformada, transforme-se" (Viktor Frankl) 
 
 ✨
 
