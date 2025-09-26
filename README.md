@@ -1,6 +1,6 @@
-# Oi, Sou Pedro Zeferino da Silva | Desenvolvimento de Sistemas na FAT - 
+# Oi, Sou Pedro Zeferino da Silva | Em Formação Desenvolvimento de Sistemas na FAT - 2025
 
-### ✨Em transição de carreira para Desenvolvedor Junior Front End | Cursos de Programação e Desenvolvimento de Sistemas na FAT | Ada Tech + SANTANDER | "Quando a situação for boa, desfrute-a. Quando a situação for ruim, transforme-a. Quando a situação não puder ser transformada, transforme-se" (Viktor Frankl) 
+### ✨Em transição de carreira para Desenvolvedor Junior Front End | Cursos de Programação e Desenvolvimento de Sistemas na FAT | Ada Tech + SANTANDER/24 |Ada Tech + Data4All/25 "Quando a situação for boa, desfrute-a. Quando a situação for ruim, transforme-a. Quando a situação não puder ser transformada, transforme-se" (Viktor Frankl) 
 
 ✨
 
