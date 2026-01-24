@@ -7,7 +7,7 @@
 
 ## ✨ Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/pedro-zeferino-da-silva-625394330/)
-[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](pedrozeferino)
+[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://discord.com/channels/867748958201315328/1228435522448265226)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/pedrozeferino5925/)
 
 
