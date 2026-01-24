@@ -1,12 +1,13 @@
-# Oi, Sou Pedro Zeferino da Silva | Em Formação Desenvolvimento de Sistemas na FAT - 2025
+# Oi, Sou Pedro Zeferino da Silva 
 
-### ✨Em transição de carreira para Desenvolvedor Junior Front End | Cursos de Programação e Desenvolvimento de Sistemas na FAT | Ada Tech + SANTANDER/24 |Ada Tech + Data4All/25 "Quando a situação for boa, desfrute-a. Quando a situação for ruim, transforme-a. Quando a situação não puder ser transformada, transforme-se" (Viktor Frankl) 
+## ✨Em transição de carreira para Desenvolvedor Junior Front End | Cursando Programação e Desenvolvimento de Sistemas na FAT - Fundação ao Apoio á Tecnologia | DIO + SANTANDER 2026  | Ada Tech + Data4All/25 
+"Quando a situação for boa, desfrute-a. Quando a situação for ruim, transforme-a. Quando a situação não puder ser transformada, transforme-se" (Viktor Frankl) 
 
 ✨
 
 ## ✨ Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/pedro-zeferino-da-silva-625394330/)
-[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://discord.com/pedrozeferino)
+[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](pedrozeferino)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/pedrozeferino5925/)
 
 
