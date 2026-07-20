@@ -59,6 +59,9 @@ Estou em transição de carreira focado em me tornar um **Desenvolvedor Front-En
 
 Aqui estão alguns dos projetos práticos que desenvolvi para consolidar meu aprendizado:
 
+| 🚀 Projeto_Imersão-Alura | 📝 Descrição | 🔗 Link de Demonstração |
+| **alura-imersao-tech-2026** | O Álbum de Figurinhas Virtual interativo com grandes personalidades da tecnologia nacional e internacional. | [Ver Demo ↗](https://alura-imersao-tech-2026.onrender.com/)
+
 | 🚀 Projeto | 📝 Descrição | 🔗 Link de Demonstração |
 | :--- | :--- | :--- |
 | **Aluraflix** | Catálogo de vídeos dinâmico e responsivo. | [Ver Demo ↗](https://aluraflix-pzs-vercel.vercel.app/) |
