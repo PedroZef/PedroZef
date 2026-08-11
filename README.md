@@ -73,23 +73,23 @@ Estou em transição de carreira focado em me tornar um **Desenvolvedor Front-En
     
     | ☕ **Java & IA** | **budgeting_2026** | Aplicação de orçamento financeiro integrando Java e IA Generativa
   (ChatClient & síntese de voz). | [<img src="https://img.shields.io/badge/Ver_Código-0073B7?style=flat-
-  square&logo=github&logoColor=white" />](https://github.com/PedroZef/budgeting_2026) |
+  square&logo=github&logoColor=white" />](https://github.com/PedroZef/budgeting_2026) 
   
     | 📘 **TypeScript / Node** | **nodejs-express-api_2026** | API RESTful com Node.js + Express + TypeScript para
   manipulação de dados da web. | [<img src="https://img.shields.io/badge/Ver_Código-3178C6?style=flat-
-  square&logo=github&logoColor=white" />](https://github.com/PedroZef/nodejs-express-api_2026) |
+  square&logo=github&logoColor=white" />](https://github.com/PedroZef/nodejs-express-api_2026) 
   
     | 🎨 **HTML5 & CSS3** | **discord-landing-page_2026** | Recriação responsiva da Landing Page do Discord com CSS
   Grid, Flexbox e Dark Mode. | [<img src="https://img.shields.io/badge/Ver_Código-E34F26?style=flat-
-  square&logo=github&logoColor=white" />](https://github.com/PedroZef/discord-landing-page_2026) |
+  square&logo=github&logoColor=white" />](https://github.com/PedroZef/discord-landing-page_2026) 
   
     | ⚛️ **JavaScript / React** | **organo-react** | Organograma corporativo interativo construído com React para
   gerenciar times. | [<img src="https://img.shields.io/badge/Ver_Demo-61DAFB?style=flat-
-  square&logo=react&logoColor=black" />](https://organo-react-pedrozef.vercel.app/) |
+  square&logo=react&logoColor=black" />](https://organo-react-pedrozef.vercel.app/) 
   
     | 🐍 **Python** | **malware-defense-lab_security** | Simulador educativo de análise de comportamento de ameaças e
   scripts de segurança. | [<img src="https://img.shields.io/badge/Ver_Código-3572A5?style=flat-
-  square&logo=python&logoColor=white" />](https://github.com/PedroZef/malware-defense-lab_security) |
+  square&logo=python&logoColor=white" />](https://github.com/PedroZef/malware-defense-lab_security) 
   
 ---
 
