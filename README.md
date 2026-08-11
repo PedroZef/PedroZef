@@ -1,6 +1,19 @@
 # Olá, eu sou o Pedro Zeferino da Silva! 👋
 
-<div align="center">
+  <div align="center">
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,50:5865F2,
+  100:61DAFB&height=180&section=header&text=Pedro%20Zeferino&fontSize=42&fontColor=ffffff&animation=twinkling"
+  width="100%"/>
+      <a href="https://github.com/PedroZef">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+
+  Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&height=50&lines=Desenvolvedor+
+  Front-End+Junior+%F0%9F%9A%80;Dev.+de+Sistemas+%40+FAT+-+FundacaodeApoioaTecnologia-SP+%F0%9F%8D%93;Tecnico+em+
+  Informatica+para+Internet+%40+IFSP+%F0%9F%92%BB;React.js+%7C+TypeScript+%7C+Java+%7C+Node.js;Buscando+oportunidades+
+  no+mercado+tech!+%F0%9F%8E%AF" alt="Typing SVG PedroZef" />
+      </a>
+    </div>
+    <!-- Seus botões de redes sociais continuam aqui abaixo -->
+    <div align="center">
   <a href="https://www.linkedin.com/in/pedro-zeferino-da-silva-625394330/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -40,7 +53,6 @@ Estou em transição de carreira focado em me tornar um **Desenvolvedor Front-En
     <td valign="top" width="33%">
       <h4>⚙️ Back-End</h4>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" /><br/>
-      <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" /><br/>
       <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" /><br/>
       <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white" alt=".NET" /><br/>
       <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" alt="Ruby" />
@@ -55,22 +67,30 @@ Estou em transição de carreira focado em me tornar um **Desenvolvedor Front-En
 
 ---
 
-### 📂 Portfólio e Projetos Principais
-
-Aqui estão alguns dos projetos práticos que desenvolvi para consolidar meu aprendizado:
-
-| 🚀 Projeto_Imersão-Alura | 📝 Descrição | 🔗 Link de Demonstração |
-| **alura-imersao-tech-2026** | O Álbum de Figurinhas Virtual interativo com grandes personalidades da tecnologia nacional e internacional. | [Ver Demo ↗](https://alura-imersao-tech-2026.onrender.com/)
-
-| 🚀 Projeto | 📝 Descrição | 🔗 Link de Demonstração |
-| :--- | :--- | :--- |
-| **Aluraflix** | Catálogo de vídeos dinâmico e responsivo. | [Ver Demo ↗](https://aluraflix-pzs-vercel.vercel.app/) |
-| **Organo** | Organograma corporativo interativo construído com React. | [Ver Demo ↗](https://organo-react-pedrozef.vercel.app/) |
-| **Encriptador de Texto** | Challenge ONE - Encriptador e decodificador com interface moderna. | [Ver Demo ↗](https://pedrozef.github.io/encriptador_challenge-one) |
-| **DSMeta** | Aplicação completa para monitoramento de vendas e notificações. | [Ver Demo ↗](https://dsmeta-zef2022.netlify.app) |
-| **Portfólio Pessoal** | Landing page pessoal responsiva estruturada em HTML5/CSS3. | [Ver Demo ↗](https://pedrozef.github.io/Portifolio-HTML-e-CSS-turma6/) |
-| **Challenge ONE Portfolio** | Portfólio profissional para exibição de competências e contatos. | [Ver Demo ↗](https://pedrozef.github.io/challenge-one-portfolio-t5/) |
-
+## 📂 Portfólio e Projetos Principais
+--
+    | 🚀 Tecnologia | 📝 Projeto | 💡 Descrição | 🔗 Demonstração / Código |
+    
+    | ☕ **Java & IA** | **budgeting_2026** | Aplicação de orçamento financeiro integrando Java e IA Generativa
+  (ChatClient & síntese de voz). | [<img src="https://img.shields.io/badge/Ver_Código-0073B7?style=flat-
+  square&logo=github&logoColor=white" />](https://github.com/PedroZef/budgeting_2026) |
+  
+    | 📘 **TypeScript / Node** | **nodejs-express-api_2026** | API RESTful com Node.js + Express + TypeScript para
+  manipulação de dados da web. | [<img src="https://img.shields.io/badge/Ver_Código-3178C6?style=flat-
+  square&logo=github&logoColor=white" />](https://github.com/PedroZef/nodejs-express-api_2026) |
+  
+    | 🎨 **HTML5 & CSS3** | **discord-landing-page_2026** | Recriação responsiva da Landing Page do Discord com CSS
+  Grid, Flexbox e Dark Mode. | [<img src="https://img.shields.io/badge/Ver_Código-E34F26?style=flat-
+  square&logo=github&logoColor=white" />](https://github.com/PedroZef/discord-landing-page_2026) |
+  
+    | ⚛️ **JavaScript / React** | **organo-react** | Organograma corporativo interativo construído com React para
+  gerenciar times. | [<img src="https://img.shields.io/badge/Ver_Demo-61DAFB?style=flat-
+  square&logo=react&logoColor=black" />](https://organo-react-pedrozef.vercel.app/) |
+  
+    | 🐍 **Python** | **malware-defense-lab_security** | Simulador educativo de análise de comportamento de ameaças e
+  scripts de segurança. | [<img src="https://img.shields.io/badge/Ver_Código-3572A5?style=flat-
+  square&logo=python&logoColor=white" />](https://github.com/PedroZef/malware-defense-lab_security) |
+  
 ---
 
 ### 🎓 Formação & Certificações
