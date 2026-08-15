@@ -1,6 +1,6 @@
 # Olá, eu sou o Pedro Zeferino da Silva! 👋
 
-  <div align="center">
+<div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,50:5865F2,100:61DAFB&height=180&section=header&text=Pedro%20Zeferino%20da%20Silva&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Pedro Zeferino da Silva" />
     <a href="https://github.com/PedroZef">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&height=50&lines=Desenvolvedor+Front-End+Junior+%F0%9F%9A%80;Dev.+de+Sistemas+%40+FAT+-+Fundacao+de+Apoio+a+Tecnologia-SP+%F0%9F%8D%93;Tecnico+em+Informatica+para+Internet+%40+IFSP+%F0%9F%92%BB;React.js+%7C+TypeScript+%7C+Java+%7C+IA+Generativa+%F0%9F%A4%96;Buscando+oportunidades+no+mercado+tech!+%F0%9F%8E%AF" alt="Typing SVG PedroZef" />
@@ -14,7 +14,7 @@
     <a href="https://www.instagram.com/pedrozeferino5925/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
-    <a href="https://discord.com/channels/867748958201315328/1228435522448265226" target="_blank">
+    <a href="https://discord.com/users/966047825790115881" target="_blank">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
     </a>
     <a href="https://onlinecurriculo.com.br/r/ymyltlHY2" target="_blank">
@@ -24,7 +24,7 @@
 
 ---
 
-### 🚀 Sobre Mim
+### 🚀Sobre Mim
 
 Estou em transição de carreira focado em me tornar um **Desenvolvedor Front-End Junior** e integração com **Back-End e Inteligência Artificial Generativa**. Atualmente, curso **Programação e Desenvolvimento de Sistemas** na [FAT (Fundação de Apoio à Tecnologia)](https://escolatecnicafat.org.br/). Sou apaixonado por tecnologia e em constante aprendizado através de bootcamps de excelência como **DIO + Santander**, **Ada Tech + Data4All** e o programa **ONE (Oracle Next Education) com a Alura**.
 
@@ -81,14 +81,14 @@ Estou em transição de carreira focado em me tornar um **Desenvolvedor Front-En
 
 ## 📂 Portfólio e Projetos Principais
 
-| 🚀 Tecnologia | 📝 Projeto | 💡 Descrição | 🔗 Demonstração / Código |
-| :--- | :--- | :--- | :--- |
-| ☕ **Java & IA** | **budgeting_2026** | Aplicação de orçamento financeiro integrando Java e IA Generativa (ChatClient & síntese de voz). | [![Ver Código](https://img.shields.io/badge/Ver_Código-0073B7?style=flat-square&logo=github&logoColor=white)](https://github.com/PedroZef/budgeting_2026) |
-| 📘 **TypeScript / Node** | **nodejs-express-api_2026** | API RESTful com Node.js + Express + TypeScript para manipulação de dados da web. | [![Ver Código](https://img.shields.io/badge/Ver_Código-3178C6?style=flat-square&logo=github&logoColor=white)](https://github.com/PedroZef/nodejs-express-api_2026) |
-| 🎨 **HTML5 & CSS3** | **discord-landing-page_2026** | Recriação responsiva da Landing Page do Discord com CSS Grid, Flexbox e Dark Mode. | [![Ver Código](https://img.shields.io/badge/Ver_Código-E34F26?style=flat-square&logo=github&logoColor=white)](https://github.com/PedroZef/discord-landing-page_2026) |
-| ⚛️ **JavaScript / React** | **organo-react** | Organograma corporativo interativo construído com React para gerenciar times. | [![Ver Demo](https://img.shields.io/badge/Ver_Demo-61DAFB?style=flat-square&logo=react&logoColor=black)](https://organo-react-pedrozef.vercel.app/) |
-| 🐍 **Python** | **malware-defense-lab_security** | Simulador educativo de análise de comportamento de ameaças e scripts de segurança. | [![Ver Código](https://img.shields.io/badge/Ver_Código-3572A5?style=flat-square&logo=python&logoColor=white)](https://github.com/PedroZef/malware-defense-lab_security) |
-  
+| 🚀 Tecnologia                    | 📝 Projeto                             | 💡 Descrição                                                                                       | 🔗 Demonstração / Código                                                                                                                                              |
+| :------------------------------- | :------------------------------------- | :--------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ☕**Java & IA**            | **budgeting_2026**               | Aplicação de orçamento financeiro integrando Java e IA Generativa (ChatClient & síntese de voz). | [![Ver Código](https://img.shields.io/badge/Ver_Código-0073B7?style=flat-square&logo=github&logoColor=white)](https://github.com/PedroZef/budgeting_2026)               |
+| 📘**TypeScript / Node**    | **nodejs-express-api_2026**      | API RESTful com Node.js + Express + TypeScript para manipulação de dados da web.                   | [![Ver Código](https://img.shields.io/badge/Ver_Código-3178C6?style=flat-square&logo=github&logoColor=white)](https://github.com/PedroZef/nodejs-express-api_2026)      |
+| 🎨**HTML5 & CSS3**         | **discord-landing-page_2026**    | Recriação responsiva da Landing Page do Discord com CSS Grid, Flexbox e Dark Mode.                 | [![Ver Código](https://img.shields.io/badge/Ver_Código-E34F26?style=flat-square&logo=github&logoColor=white)](https://github.com/PedroZef/discord-landing-page_2026)    |
+| ⚛️**JavaScript / React** | **organo-react**                 | Organograma corporativo interativo construído com React para gerenciar times.                       | [![Ver Demo](https://img.shields.io/badge/Ver_Demo-61DAFB?style=flat-square&logo=react&logoColor=black)](https://organo-react-pedrozef.vercel.app/)                       |
+| 🐍**Python**               | **malware-defense-lab_security** | Simulador educativo de análise de comportamento de ameaças e scripts de segurança.                | [![Ver Código](https://img.shields.io/badge/Ver_Código-3572A5?style=flat-square&logo=python&logoColor=white)](https://github.com/PedroZef/malware-defense-lab_security) |
+
 ---
 
 ### 🎓 Formação & Certificações
@@ -99,13 +99,13 @@ Clique nos títulos abaixo para expandir e visualizar as minhas certificações:
 <summary><b>🎓 Alura / Oracle Next Education (ONE) - Turma 5</b></summary>
 <br/>
 
-*   [Conclusão Geral do Programa ONE](Front-End%20Alura%20Oracle/Certificado%20de%20Conclus%C3%A3o%20do%20Programa%20-%20Alura.pdf)
-*   [Formação Front End T5](Front-End%20Alura%20Oracle/Forma%C3%A7%C3%A3o%20Front%20End%20T5%20-%20ONE%20-%20Alura.pdf)
-*   [Formação React T5](Front-End%20Alura%20Oracle/Forma%C3%A7%C3%A3o%20React%20T5%20-%20ONE%20-%20Alura.pdf)
-*   [Formação Iniciante em Programação T5](Front-End%20Alura%20Oracle/Forma%C3%A7%C3%A3o%20Iniciante%20em%20Programa%C3%A7%C3%A3o%20%20T5%20-%20ONE%20%20-%20Alura.pdf)
-*   [Formação Desenvolvimento Pessoal T5](Front-End%20Alura%20Oracle/Forma%C3%A7%C3%A3o%20Desenvolvimento%20Pessoal%20T5%20-%20Alura.pdf)
-*   [Formação Business Agility T5](Front-End%20Alura%20Oracle/Forma%C3%A7%C3%A3o%20Business%20Agility%20T5%20-%20ONE%20-%20Alura.pdf)
-*   [Formação Empreendedorismo T5](Front-End%20Alura%20Oracle/Forma%C3%A7%C3%A3o%20Empreendedorismo%20T5%20-%20ONE%20-%20Alura.pdf)
+* [Conclusão Geral do Programa ONE](<Front-End%20Alura%20Oracle/Certificado%20de%20Conclus%C3%A3o%20do%20Programa%20-%20Alura.pdf>)
+* [Formação Front End T5](<Front-End%20Alura%20Oracle/Forma%C3%A7%C3%A3o%20Front%20End%20T5%20-%20ONE%20-%20Alura.pdf>)
+* [Formação React T5](<Front-End%20Alura%20Oracle/Forma%C3%A7%C3%A3o%20React%20T5%20-%20ONE%20-%20Alura.pdf>)
+* [Formação Iniciante em Programação T5](<Front-End%20Alura%20Oracle/Forma%C3%A7%C3%A3o%20Iniciante%20em%20Programa%C3%A7%C3%A3o%20%20T5%20-%20ONE%20%20-%20Alura.pdf>)
+* [Formação Desenvolvimento Pessoal T5](<Front-End%20Alura%20Oracle/Forma%C3%A7%C3%A3o%20Desenvolvimento%20Pessoal%20T5%20-%20Alura.pdf>)
+* [Formação Business Agility T5](<Front-End%20Alura%20Oracle/Forma%C3%A7%C3%A3o%20Business%20Agility%20T5%20-%20ONE%20-%20Alura.pdf>)
+* [Formação Empreendedorismo T5](<Front-End%20Alura%20Oracle/Forma%C3%A7%C3%A3o%20Empreendedorismo%20T5%20-%20ONE%20-%20Alura.pdf>)
 
 </details>
 
@@ -113,20 +113,20 @@ Clique nos títulos abaixo para expandir e visualizar as minhas certificações:
 <summary><b>🎓 Bootcamps & Cursos Digital Innovation One (DIO)</b></summary>
 <br/>
 
-*   [Criando um Banco Digital Java e Orientação a Objetos](Cursos%20e%20Bootcamps%20Dio/Criando%20um%20Banco%20Digital%20Java%20e%20Orienta%C3%A7%C3%A3o%20a%20Objetos.jpg)
-*   [Spring Data JPA com JAVA](Cursos%20e%20Bootcamps%20Dio/Spring%20Data%20JPA%20com%20JAVA.jpg)
-*   [App Web Application React Covid19](Cursos%20e%20Bootcamps%20Dio/App%20Web%20Application%20React%20Covid19.jpg)
-*   [Certificado App GitHub](Cursos%20e%20Bootcamps%20Dio/Certificado%20App%20GitHub.jpeg)
-*   [GFT Start #3 Java](Cursos%20e%20Bootcamps%20Dio/GFT%20Start%20%233%20Java.jpg)
-*   [GFT Start #3 .NET](Cursos%20e%20Bootcamps%20Dio/GFT%20Start%20%233%20.NET%20%282%29.jfif)
-*   [LocalizaLabs .Net Developer #2](Cursos%20e%20Bootcamps%20Dio/LocalizaLabs%20.Net%20Developer%20%232.jpg)
-*   [Spread Java Developer](Cursos%20e%20Bootcamps%20Dio/Spread%20Java%20Developer.jpg)
-*   [Impulso Fullstack Web Developer](Cursos%20e%20Bootcamps%20Dio/Impulso%20Fullstack%20Web%20Devoloper.jpg)
-*   [Take Blip Web Developer](Cursos%20e%20Bootcamps%20Dio/Take%20Blip%20Web%20Developer.jpg)
-*   [Eduzz Fullstack Developer #3](Cursos%20e%20Bootcamps%20Dio/Eduzz%20Fullstack%20Developer%20%233.jpg)
-*   [Sportheca Mobile Developer](Cursos%20e%20Bootcamps%20Dio/Sportheca%20Mobile%20Developer.jpg)
-*   [Primeiro jogo de Naves](Cursos%20e%20Bootcamps%20Dio/Primeiro%20jogo%20de%20Naves.jpg)
-*   [Primeiro Repositório no GITHUB](Cursos%20e%20Bootcamps%20Dio/Primeiro%20Reposit%C3%B3rio%20no%20GITHUB.jpg)
+* [Criando um Banco Digital Java e Orientação a Objetos](<Cursos%20e%20Bootcamps%20Dio/Criando%20um%20Banco%20Digital%20Java%20e%20Orienta%C3%A7%C3%A3o%20a%20Objetos.jpg>)
+* [Spring Data JPA com JAVA](<Cursos%20e%20Bootcamps%20Dio/Spring%20Data%20JPA%20com%20JAVA.jpg>)
+* [App Web Application React Covid19](<Cursos%20e%20Bootcamps%20Dio/App%20Web%20Application%20React%20Covid19.jpg>)
+* [Certificado App GitHub](<Cursos%20e%20Bootcamps%20Dio/Certificado%20App%20GitHub.jpeg>)
+* [GFT Start #3 Java](<Cursos%20e%20Bootcamps%20Dio/GFT%20Start%20%233%20Java.jpg>)
+* [GFT Start #3 .NET](<Cursos%20e%20Bootcamps%20Dio/GFT%20Start%20%233%20.NET%20%282%29.jfif>)
+* [LocalizaLabs .Net Developer #2](<Cursos%20e%20Bootcamps%20Dio/LocalizaLabs%20.Net%20Developer%20%232.jpg>)
+* [Spread Java Developer](<Cursos%20e%20Bootcamps%20Dio/Spread%20Java%20Developer.jpg>)
+* [Impulso Fullstack Web Developer](<Cursos%20e%20Bootcamps%20Dio/Impulso%20Fullstack%20Web%20Devoloper.jpg>)
+* [Take Blip Web Developer](<Cursos%20e%20Bootcamps%20Dio/Take%20Blip%20Web%20Developer.jpg>)
+* [Eduzz Fullstack Developer #3](<Cursos%20e%20Bootcamps%20Dio/Eduzz%20Fullstack%20Developer%20%233.jpg>)
+* [Sportheca Mobile Developer](<Cursos%20e%20Bootcamps%20Dio/Sportheca%20Mobile%20Developer.jpg>)
+* [Primeiro jogo de Naves](<Cursos%20e%20Bootcamps%20Dio/Primeiro%20jogo%20de%20Naves.jpg>)
+* [Primeiro Repositório no GITHUB](<Cursos%20e%20Bootcamps%20Dio/Primeiro%20Reposit%C3%B3rio%20no%20GITHUB.jpg>)
 
 </details>
 
