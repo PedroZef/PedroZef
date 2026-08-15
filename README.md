@@ -1,32 +1,26 @@
 # Olá, eu sou o Pedro Zeferino da Silva! 👋
 
   <div align="center">
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,50:5865F2,
-  100:61DAFB&height=180&section=header&text=Pedro%20Zeferino&fontSize=42&fontColor=ffffff&animation=twinkling"
-  width="100%"/>
-      <a href="https://github.com/PedroZef">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+
-  Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&height=50&lines=Desenvolvedor+
-  Front-End+Junior+%F0%9F%9A%80;Dev.+de+Sistemas+%40+FAT+-+FundacaodeApoioaTecnologia-SP+%F0%9F%8D%93;Tecnico+em+
-  Informatica+para+Internet+%40+IFSP+%F0%9F%92%BB;React.js+%7C+TypeScript+%7C+Java+%7C+Node.js;Buscando+oportunidades+
-  no+mercado+tech!+%F0%9F%8E%AF" alt="Typing SVG PedroZef" />
-      </a>
-    </div>
-    <!-- Seus botões de redes sociais continuam aqui abaixo -->
-    <div align="center">
-  <a href="https://www.linkedin.com/in/pedro-zeferino-da-silva-625394330/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/pedrozeferino5925/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://discord.com/channels/867748958201315328/1228435522448265226" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://onlinecurriculo.com.br/r/ymyltlHY2" target="_blank">
-    <img src="https://img.shields.io/badge/Meu%20Curr%C3%ADculo-00A88F?style=for-the-badge&logo=googledocs&logoColor=white" alt="Currículo" />
-  </a>
-</div>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,50:5865F2,100:61DAFB&height=180&section=header&text=Pedro%20Zeferino%20da%20Silva&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Pedro Zeferino da Silva" />
+    <a href="https://github.com/PedroZef">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&height=50&lines=Desenvolvedor+Front-End+Junior+%F0%9F%9A%80;Dev.+de+Sistemas+%40+FAT+-+Fundacao+de+Apoio+a+Tecnologia-SP+%F0%9F%8D%93;Tecnico+em+Informatica+para+Internet+%40+IFSP+%F0%9F%92%BB;React.js+%7C+TypeScript+%7C+Java+%7C+Node.js;Buscando+oportunidades+no+mercado+tech!+%F0%9F%8E%AF" alt="Typing SVG PedroZef" />
+    </a>
+  </div>
+  <!-- Seus botões de redes sociais continuam aqui abaixo -->
+  <div align="center">
+    <a href="https://www.linkedin.com/in/pedro-zeferino-da-silva-625394330/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://www.instagram.com/pedrozeferino5925/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="https://discord.com/channels/867748958201315328/1228435522448265226" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    </a>
+    <a href="https://onlinecurriculo.com.br/r/ymyltlHY2" target="_blank">
+      <img src="https://img.shields.io/badge/Meu%20Curr%C3%ADculo-00A88F?style=for-the-badge&logo=googledocs&logoColor=white" alt="Currículo" />
+    </a>
+  </div>
 
 ---
 
@@ -68,28 +62,14 @@ Estou em transição de carreira focado em me tornar um **Desenvolvedor Front-En
 ---
 
 ## 📂 Portfólio e Projetos Principais
---
-    | 🚀 Tecnologia | 📝 Projeto | 💡 Descrição | 🔗 Demonstração / Código |
-    
-    | ☕ **Java & IA** | **budgeting_2026** | Aplicação de orçamento financeiro integrando Java e IA Generativa
-  (ChatClient & síntese de voz). | [<img src="https://img.shields.io/badge/Ver_Código-0073B7?style=flat-
-  square&logo=github&logoColor=white" />](https://github.com/PedroZef/budgeting_2026) 
-  
-    | 📘 **TypeScript / Node** | **nodejs-express-api_2026** | API RESTful com Node.js + Express + TypeScript para
-  manipulação de dados da web. | [<img src="https://img.shields.io/badge/Ver_Código-3178C6?style=flat-
-  square&logo=github&logoColor=white" />](https://github.com/PedroZef/nodejs-express-api_2026) 
-  
-    | 🎨 **HTML5 & CSS3** | **discord-landing-page_2026** | Recriação responsiva da Landing Page do Discord com CSS
-  Grid, Flexbox e Dark Mode. | [<img src="https://img.shields.io/badge/Ver_Código-E34F26?style=flat-
-  square&logo=github&logoColor=white" />](https://github.com/PedroZef/discord-landing-page_2026) 
-  
-    | ⚛️ **JavaScript / React** | **organo-react** | Organograma corporativo interativo construído com React para
-  gerenciar times. | [<img src="https://img.shields.io/badge/Ver_Demo-61DAFB?style=flat-
-  square&logo=react&logoColor=black" />](https://organo-react-pedrozef.vercel.app/) 
-  
-    | 🐍 **Python** | **malware-defense-lab_security** | Simulador educativo de análise de comportamento de ameaças e
-  scripts de segurança. | [<img src="https://img.shields.io/badge/Ver_Código-3572A5?style=flat-
-  square&logo=python&logoColor=white" />](https://github.com/PedroZef/malware-defense-lab_security) 
+
+| 🚀 Tecnologia | 📝 Projeto | 💡 Descrição | 🔗 Demonstração / Código |
+| :--- | :--- | :--- | :--- |
+| ☕ **Java & IA** | **budgeting_2026** | Aplicação de orçamento financeiro integrando Java e IA Generativa (ChatClient & síntese de voz). | [![Ver Código](https://img.shields.io/badge/Ver_Código-0073B7?style=flat-square&logo=github&logoColor=white)](https://github.com/PedroZef/budgeting_2026) |
+| 📘 **TypeScript / Node** | **nodejs-express-api_2026** | API RESTful com Node.js + Express + TypeScript para manipulação de dados da web. | [![Ver Código](https://img.shields.io/badge/Ver_Código-3178C6?style=flat-square&logo=github&logoColor=white)](https://github.com/PedroZef/nodejs-express-api_2026) |
+| 🎨 **HTML5 & CSS3** | **discord-landing-page_2026** | Recriação responsiva da Landing Page do Discord com CSS Grid, Flexbox e Dark Mode. | [![Ver Código](https://img.shields.io/badge/Ver_Código-E34F26?style=flat-square&logo=github&logoColor=white)](https://github.com/PedroZef/discord-landing-page_2026) |
+| ⚛️ **JavaScript / React** | **organo-react** | Organograma corporativo interativo construído com React para gerenciar times. | [![Ver Demo](https://img.shields.io/badge/Ver_Demo-61DAFB?style=flat-square&logo=react&logoColor=black)](https://organo-react-pedrozef.vercel.app/) |
+| 🐍 **Python** | **malware-defense-lab_security** | Simulador educativo de análise de comportamento de ameaças e scripts de segurança. | [![Ver Código](https://img.shields.io/badge/Ver_Código-3572A5?style=flat-square&logo=python&logoColor=white)](https://github.com/PedroZef/malware-defense-lab_security) |
   
 ---
 
@@ -134,19 +114,13 @@ Clique nos títulos abaixo para expandir e visualizar as minhas certificações:
 
 ---
 
-### 📊 Estatísticas de Contribuições
+### 📊 Estatísticas e Métricas no GitHub
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" width="50%">
-        <img height="180px" src="https://github-readme-stats.vercel.app/api?username=PedroZef&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-      </td>
-      <td align="center" width="50%">
-        <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroZef&layout=compact&theme=tokyonight" alt="Linguagens Mais Usadas" />
-      </td>
-    </tr>
-  </table>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroZef&theme=tokyonight" alt="Streak de Contribuições" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PedroZef&theme=tokyonight" alt="Estatísticas do GitHub" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PedroZef&theme=tokyonight" alt="Linguagens Mais Utilizadas" />
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroZef&theme=tokyonight" alt="Detalhes e Histórico do Perfil" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=PedroZef&theme=tokyonight" alt="Sequência de Contribuições (Streak)" />
 </div>
