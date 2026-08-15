@@ -3,7 +3,7 @@
   <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,50:5865F2,100:61DAFB&height=180&section=header&text=Pedro%20Zeferino%20da%20Silva&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Pedro Zeferino da Silva" />
     <a href="https://github.com/PedroZef">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&height=50&lines=Desenvolvedor+Front-End+Junior+%F0%9F%9A%80;Dev.+de+Sistemas+%40+FAT+-+Fundacao+de+Apoio+a+Tecnologia-SP+%F0%9F%8D%93;Tecnico+em+Informatica+para+Internet+%40+IFSP+%F0%9F%92%BB;React.js+%7C+TypeScript+%7C+Java+%7C+Node.js;Buscando+oportunidades+no+mercado+tech!+%F0%9F%8E%AF" alt="Typing SVG PedroZef" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&height=50&lines=Desenvolvedor+Front-End+Junior+%F0%9F%9A%80;Dev.+de+Sistemas+%40+FAT+-+Fundacao+de+Apoio+a+Tecnologia-SP+%F0%9F%8D%93;Tecnico+em+Informatica+para+Internet+%40+IFSP+%F0%9F%92%BB;React.js+%7C+TypeScript+%7C+Java+%7C+IA+Generativa+%F0%9F%A4%96;Buscando+oportunidades+no+mercado+tech!+%F0%9F%8E%AF" alt="Typing SVG PedroZef" />
     </a>
   </div>
   <!-- Seus botões de redes sociais continuam aqui abaixo -->
@@ -26,7 +26,7 @@
 
 ### 🚀 Sobre Mim
 
-Estou em transição de carreira focado em me tornar um **Desenvolvedor Front-End Junior**. Atualmente, curso **Programação e Desenvolvimento de Sistemas** na [FAT (Fundação de Apoio à Tecnologia)](https://escolatecnicafat.org.br/). Sou apaixonado por tecnologia e em constante aprendizado através de bootcamps de excelência como **DIO + Santander**, **Ada Tech + Data4All** e o programa **ONE (Oracle Next Education) com a Alura**.
+Estou em transição de carreira focado em me tornar um **Desenvolvedor Front-End Junior** e integração com **Back-End e Inteligência Artificial Generativa**. Atualmente, curso **Programação e Desenvolvimento de Sistemas** na [FAT (Fundação de Apoio à Tecnologia)](https://escolatecnicafat.org.br/). Sou apaixonado por tecnologia e em constante aprendizado através de bootcamps de excelência como **DIO + Santander**, **Ada Tech + Data4All** e o programa **ONE (Oracle Next Education) com a Alura**.
 
 > 💡 *"Quando a situação for boa, desfrute-a. Quando a situação for ruim, transforme-a. Quando a situação não puder ser transformada, transforme-se."* — **Viktor Frankl**
 
@@ -34,27 +34,45 @@ Estou em transição de carreira focado em me tornar um **Desenvolvedor Front-En
 
 ### 🛠️ Tecnologias e Competências
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <td valign="top" width="33%">
-      <h4>💻 Front-End</h4>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /><br/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /><br/>
+    <td valign="top" width="50%">
+      <h4>🤖 Inteligência Artificial & Inovação</h4>
+      <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+      <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring AI" /><br/>
+      <img src="https://img.shields.io/badge/IA%20Generativa%20%26%20LLMs-FF6F00?style=flat-square&logo=target&logoColor=white" alt="IA Generativa" />
+      <img src="https://img.shields.io/badge/Prompt%20Engineering-00599C?style=flat-square&logo=codeforces&logoColor=white" alt="Prompt Engineering" />
+    </td>
+    <td valign="top" width="50%">
+      <h4>💻 Front-End & Mobile</h4>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /><br/>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /><br/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
     </td>
-    <td valign="top" width="33%">
-      <h4>⚙️ Back-End</h4>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" /><br/>
-      <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" /><br/>
-      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white" alt=".NET" /><br/>
-      <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" alt="Ruby" />
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>⚙️ Back-End & Bancos de Dados</h4>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /><br/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
     </td>
-    <td valign="top" width="33%">
-      <h4>🔧 Ferramentas & Outros</h4>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /><br/>
+    <td valign="top" width="50%">
+      <h4>☁️ Cloud, DevOps & Ferramentas</h4>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /><br/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
     </td>
   </tr>
 </table>
