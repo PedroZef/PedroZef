@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:0969da,70:1f6feb,100:58a6ff&height=200&section=header&text=Pedro%20Zeferino%20da%20Silva&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Pedro Zeferino da Silva" />
   
   <a href="https://github.com/PedroZef">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=Engenheiro+de+Sistemas+%26+Desenvolvedor+Full-Stack+%F0%9F%9A%80;Front-End+Moderno%3A+React+19+%7C+TypeScript+%7C+Vite+8+%E2%9A%9B%EF%B8%8F;Back-End+Robusto%3A+Java+21+%7C+Spring+Boot+%7C+POO+%7C+JUnit+5+%E2%98%95;Seguran%C3%A7a+Defensiva%2C+Telemetria+%26+Ambientes+WSL+%F0%9F%9B%A1%EF%B8%8F;Engenharia+de+IA+Generativa+%26+Agentes+de+Neg%C3%B3cios+%F0%9F%A4%96" alt="Typing SVG PedroZef" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=Engenheiro+de+Sistemas+%26+Desenvolvedor+Full-Stack+%F0%9F%9A%80;Destaque+2026%3A+auFOOD+%E2%80%94+App+Transacional+com+React+19+%F0%9F%90%BE;Front-End+Moderno%3A+React+19+%7C+TypeScript+%7C+Tailwind+v4+%E2%9A%9B%EF%B8%8F;Back-End+Robusto%3A+Java+21+%7C+Spring+Boot+%7C+POO+%7C+JUnit+5+%E2%98%95;Seguran%C3%A7a+Defensiva%2C+Telemetria+%26+Ambientes+WSL+%F0%9F%9B%A1%EF%B8%8F;Engenharia+de+IA+Generativa+%26+Agentes+de+Neg%C3%B3cios+%F0%9F%A4%96" alt="Typing SVG PedroZef" />
   </a>
 </div>
 
@@ -28,6 +28,40 @@
 
 ---
 
+### ⭐ Projeto em Destaque | Flagship Application (2026)
+
+<div align="center">
+  <h3>🐾 <a href="https://snap-copy-render.lovable.app" target="_blank">auFOOD — Assinatura Concierge de Ração & Petiscos</a></h3>
+  <p><b>Aplicação web transacional de alta conversão para assinatura de ração e petiscos sob medida, com atendimento humanizado via WhatsApp e persistência assíncrona de leads no Google Sheets via Webhooks.</b></p>
+
+  <p>
+    <a href="https://snap-copy-render.lovable.app" target="_blank">
+      <img src="https://img.shields.io/badge/Acessar_Aplicação_Online-FF6B00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar App Online" />
+    </a>
+    <a href="https://github.com/PedroZef/snap-copy-render" target="_blank">
+      <img src="https://img.shields.io/badge/Código_no_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Código no GitHub" />
+    </a>
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/React-19.2-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
+    <img src="https://img.shields.io/badge/TypeScript-5.8-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript 5.8" />
+    <img src="https://img.shields.io/badge/TailwindCSS-v4-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS v4" />
+    <img src="https://img.shields.io/badge/Vite%20%2F%20Bun-FBF0DF?style=flat-square&logo=bun&logoColor=black" alt="Bun / Vite" />
+    <img src="https://img.shields.io/badge/Google%20Sheets-Webhook-34A853?style=flat-square&logo=googlesheets&logoColor=white" alt="Google Sheets Webhook" />
+    <img src="https://img.shields.io/badge/WhatsApp-API%20Integration-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp API" />
+    <img src="https://img.shields.io/badge/Status-Produção-success?style=flat-square" alt="Status" />
+  </p>
+</div>
+
+> **Diferenciais e Arquitetura de Engenharia:**
+> - ⚡ **Arquitetura de Front-End Moderna**: Desenvolvido sobre **React 19.2**, **TypeScript 5.8** e a nova geração do **Tailwind CSS v4**, otimizado para renderização rápida e baixo tempo de carregamento.
+> - 📝 **Formulário com Autofill Inteligente**: Campos semânticos padronizados (`name`, `tel`, `address-level2`) compatíveis com os mecanismos nativos de autopreenchimento de navegadores, reduzindo atrito de entrada do usuário.
+> - 🔄 **Pipeline de Persistência Assíncrona de Leads**: Gravação antecipada e assíncrona dos dados do tutor via webhook do Google Sheets antes do despacho para o WhatsApp, garantindo retenção de 100% dos contatos gerados.
+> - 💬 **Geração Algorítmica de Proposta**: Mecanismo dinâmico que estrutura os dados do pet (espécie, porte, peso, rotina) e gera a mensagem codificada pronta para fechamento comercial.
+
+---
+
 ### 🏛️ Perfil Profissional & Visão de Engenharia
 
 Sou desenvolvedor de software focado em **Engenharia de Sistemas, Desenvolvimento Full-Stack e Soluções com Inteligência Artificial**. Minha abordagem de engenharia prioriza **código limpo, alta coesão, baixo acoplamento, testes automatizados e arquitetura sustentável**.
@@ -46,7 +80,7 @@ Atualmente aprofundo meus estudos em **Programação e Desenvolvimento de Sistem
       <h4>🌐 Front-End Moderno & UI/UX</h4>
       <img src="https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/JavaScript%20ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /><br/>
+      <img src="https://img.shields.io/badge/Tailwind%20CSS%20v4-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS v4" /><br/>
       <img src="https://img.shields.io/badge/Vite%208-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
       <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white" alt="styled-components" />
       <img src="https://img.shields.io/badge/HTML5%20%26%20CSS3-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5 & CSS3" /><br/>
@@ -93,10 +127,11 @@ Atualmente aprofundo meus estudos em **Programação e Desenvolvimento de Sistem
 
 Projetos concebidos, desenvolvidos e estruturados com padrões de arquitetura de software, rigor de engenharia, modularidade e foco na experiência do usuário:
 
-### 🌟 Destaques de 2026
+### 🌟 Matriz Técnica de Soluções (2026)
 
-| Domínio / Stack | Projeto & Arquitetura | Destaques Técnicos & Princípios de Engenharia | Repositório / Acesso |
+| Domínio / Stack | Projeto & Arquitetura | Destaques Técnicos & Princípios de Engenharia | Acesso & Código |
 | :--- | :--- | :--- | :--- |
+| 🐾 **SaaS & Web App**<br/>`React 19.2` • `Tailwind v4` • `TypeScript` | **[auFOOD](https://github.com/PedroZef/snap-copy-render)**<br/>*Assinatura Concierge de Ração e Petiscos* | • Plataforma transacional de alta conversão com persistência assíncrona de leads via Webhooks do Google Sheets<br/>• Proposta comercial automatizada e despachada para o WhatsApp<br/>• Formulários semânticos otimizados com autopreenchimento nativo | [![Ver Demo](https://img.shields.io/badge/App_Online-FF6B00?style=flat-square&logo=googlechrome&logoColor=white)](https://snap-copy-render.lovable.app)<br/>[![Ver Código](https://img.shields.io/badge/Código_Fonte-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PedroZef/snap-copy-render) |
 | ⚛️ **Front-End & APIs**<br/>`React 19` • `styled-components` | **[GitFind](https://github.com/PedroZef/my-gitfind)**<br/>*Explorador de Perfis e Repositórios GitHub* | • Consumo robusto da GitHub REST API com tratamento de estados (loading, 404, empty states)<br/>• Filtragem reativa em tempo real com memoização (`useMemo`)<br/>• Interface escura responsiva construída a partir de especificações visuais de design | [![Ver Código](https://img.shields.io/badge/Código_Fonte-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PedroZef/my-gitfind) |
 | ☕ **POO & Arquitetura**<br/>`Java 21` • `Maven` • `JUnit 5` | **[Impacta: Gestão Socioambiental](https://github.com/PedroZef/Gestao-Acoes-Socioambientais)**<br/>*Sistema de Logística Comunitária e Voluntariado* | • Aplicação do padrão de projeto **Facade** (`Impacta`) desacoplando regras de negócio e camada de visualização em console<br/>• Pipeline de validação com **JUnit 5** e portão de qualidade (`mvn -B verify`) exigindo **cobertura >= 70%**<br/>• Gerenciamento completo de voluntários, ranking de engajamento e métricas de impacto | [![Ver Código](https://img.shields.io/badge/Código_Fonte-0073B7?style=flat-square&logo=github&logoColor=white)](https://github.com/PedroZef/Gestao-Acoes-Socioambientais) |
 | 🪟 **UI/UX & Engenharia Web**<br/>`React 19` • `Vite 8` • `CSS Modules` | **[Calculadora NeoReact 2026](https://github.com/PedroZef/trilha-react-calculadora-2026)**<br/>*Calculadora Científico-Digital de Nova Geração* | • Design System **Dark Glassmorphism 2026** com iluminação ambiente (Ambient Glow) e display digital OLED<br/>• Mapeamento de eventos de teclado, manipulação ergonômica de expressões e histórico<br/>• Acessibilidade visual com contrastes certificados pelas diretrizes WCAG | [![Ver Código](https://img.shields.io/badge/Código_Fonte-646CFF?style=flat-square&logo=github&logoColor=white)](https://github.com/PedroZef/trilha-react-calculadora-2026) |
